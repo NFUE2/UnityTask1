@@ -10,8 +10,8 @@
 
 #### 2.캐릭터 이동
 ![image](https://github.com/NFUE2/UnityTask1/assets/96811655/5d699cf3-9d3d-4367-9bf2-a99374db0e10)
-![image](https://github.com/NFUE2/UnityTask1/assets/96811655/937fbe89-7f7e-4936-b26b-6931d2fc37ff)
 ![image](https://github.com/NFUE2/UnityTask1/assets/96811655/682cb8fa-496a-4697-8a01-6d0651459261)   
+![image](https://github.com/NFUE2/UnityTask1/assets/96811655/937fbe89-7f7e-4936-b26b-6931d2fc37ff)   
 ![Move](https://github.com/NFUE2/UnityTask1/assets/96811655/a22c256b-1ced-4613-8780-e39a5b382b86)
 
 이 부분도 유니티 입문강의 복습차원에서 Input System 을 활용하여 구현하였습니다.   
