@@ -29,4 +29,9 @@ public class CharacterAim : MonoBehaviour
 
         renderer.flipX = Mathf.Abs(rotZ) > 90f;
     }
+
+    public void ChangeRenderer(SpriteRenderer renderer)
+    {
+        this.renderer = renderer;
+    }
 }

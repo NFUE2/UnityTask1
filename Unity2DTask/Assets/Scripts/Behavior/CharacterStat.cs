@@ -1,9 +1,13 @@
 using UnityEngine;
+using UnityEngine;
+using UnityEngine.UI;
 
-[System.Serializable]
-public class CharacterStat
+public class CharacterStat : MonoBehaviour
 {
-    public string nickname;
+    public Text nicknameText;
 
-    
+    public void SetNickname(string name)
+    {
+        nicknameText.text = name;
+    }
 }
