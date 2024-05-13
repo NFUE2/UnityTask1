@@ -5,13 +5,7 @@ using System.Collections.Generic;
 public class PlayerList : MonoBehaviour
 {
     public Transform playerListTransform;
-    public List<string> playerList { get; private set; }
     public Text textFrame;
-
-    private void Awake()
-    {
-        playerList = new List<string>();
-    }
 
     private void Start()
     {

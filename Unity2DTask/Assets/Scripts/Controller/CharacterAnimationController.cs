@@ -27,7 +27,7 @@ public class CharacterAnimationController : MonoBehaviour
         animator.SetBool(isWalking, dir.magnitude > magnitude);
     }
 
-    public void ChangeACharacter(PlayerObject player)
+    public void ChangeCharacter(PlayerObject player)
     {
         animator.runtimeAnimatorController = player.contorller;
         renderer.sprite = player.CharacterIdle;
